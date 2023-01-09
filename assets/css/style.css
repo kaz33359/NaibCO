@@ -98,17 +98,17 @@ body {
   }
   
 }
-@media (max-width: 629px) {
+/* @media (max-width: 629px) {
   .demo p {
 padding: 10%;
   }
-}
+} */
 
-.demo p
+/* .demo p
 {
   padding-top: 30%;
   margin: 0px;
-}
+} */
 
 
 .large-container{
