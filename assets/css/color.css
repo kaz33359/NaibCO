@@ -136,11 +136,11 @@
 }
 
 .main-footer .widget-section .about-widget .social-links li a:hover{
-  color: #222222;
+  color: #ff0000;
 }
 
 .main-footer .widget-section .links-widget .links-list li a:hover{
-  color: #222222;
+  color: #31b9ea;
 }
 
 .main-footer .widget-section .contact-widget .info-list li i{
@@ -148,11 +148,11 @@
 }
 
 .main-footer .widget-section .contact-widget .info-list li a:hover{
-  color: #222222;
+  color: #31b9ea;
 }
 
 .footer-bottom p a:hover{
-  color: #222222;
+  color: #c03939;
 }
 
 .header-top .top-inner p a i{
