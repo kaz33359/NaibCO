@@ -3253,6 +3253,11 @@ div#mCSB_1_container{
   position: relative;
   padding: 130px 0px;
 }
+.about-style-two1{
+  position: relative;
+  padding-top: 0px;
+  padding-bottom: 130px;
+}
 
 .image_block_2 .image-box{
   position: relative;
@@ -3337,13 +3342,14 @@ div#mCSB_1_container{
 .content_block_3 .content-box .inner-box .single-item{
   position: relative;
   float: left;
-  width: 50%;
-  padding: 0px 15px;
-  border-right: 1px solid #d8d8d8;
+  /* width: 50%; */
+  padding:15px;
+  border: 1px solid #d8d8d8;
+  border-radius: 10px;
 }
 
 .content_block_3 .content-box .inner-box .single-item:last-child{
-  border-right: none;
+  /* border-right: none; */
 }
 
 .content_block_3 .content-box .inner-box .single-item .icon-box{
